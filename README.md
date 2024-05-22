@@ -8,9 +8,6 @@ Table of Contents
 - Dataset
 - Models
 - Results
-- Usage
-- References
-- License
 
 ## Introduction
 
