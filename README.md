@@ -84,7 +84,7 @@ The study found that the COVID-19 pandemic significantly impacted the performanc
 
 Ensure you have the following dependencies installed (not always needed):
 - pip install --upgrade pandas
-- -pip install --upgrade numexpr bottleneck
+- pip install --upgrade numexpr bottleneck
 - pip install statsmodels
 - pip install seaborn
 - pip install --upgrade scikit-learn
