@@ -1,4 +1,4 @@
-# US-GDP-before-and-after-COVID-19
+# **US-GDP-before-and-after-COVID-19**
 
 
 This repository contains the code and data used for the study "US GDP Forecasting in the Face of COVID-19: A Comparative Study of Advanced Machine Learning and Neural Network Techniques." The study aims to compare the performance of various Machine Learning (ML) and Deep Learning (DL) models in forecasting US GDP before and after the COVID-19 pandemic.
