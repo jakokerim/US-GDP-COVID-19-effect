@@ -1,4 +1,4 @@
-# US-GDP-before-and-after-COVID-19
+# **US-GDP-before-and-after-COVID-19**
 
 
 This repository contains the code and data used for the study "US GDP Forecasting in the Face of COVID-19: A Comparative Study of Advanced Machine Learning and Neural Network Techniques." The study aims to compare the performance of various Machine Learning (ML) and Deep Learning (DL) models in forecasting US GDP before and after the COVID-19 pandemic.
@@ -14,7 +14,7 @@ Table of Contents
 
 ## Introduction
 
-The COVID-19 pandemic has significantly impacted global economies, including the United States. Accurate GDP forecasting is crucial for policymakers, economists, and stakeholders. This study compares the performance of various ML and DL models in predicting US GDP before and after the COVID-19 pandemic, using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and others.
+The COVID-19 pandemic has significantly impacted global economies, including the United States. Accurate GDP forecasting is crucial for policymakers, economists, and stakeholders. This study compares the performance of various ML and DL models in predicting US GDP before and after the COVID-19 pandemic, using metrics such as Mean Squared Error (MSE) and Mean Absolute Error (MAE).
 
 ## Dataset
 
@@ -25,10 +25,13 @@ The dataset used in this study includes various economic indicators for the Unit
 
 The dataset is stored in a file named dataset.csv and is ";" separated.
 
+Notebooks contain codes to run the right splits and save the resulting new dataset. The two others CSV files are a result of data cleaning. 
+
 ## Models
 
 The study evaluates several ML and DL models, including:
-Machine Learning Models
+
+### Machine Learning Models
 
 - Linear Regression
 - Ridge Regression
@@ -36,12 +39,12 @@ Machine Learning Models
 - Polynomial Regression
 - Gradient Boosting
 
-## Deep Learning Models
+### Deep Learning Models
 
 - Recurrent Neural Networks (RNN)
 - Long Short-Term Memory Networks (LSTM)
 
-Each model is evaluated using both K-Fold Cross-Validation and Time Series Cross-Validation.
+**Each model is evaluated using both K-Fold Cross-Validation and Time Series Cross-Validation.**
 
 ## Results
 
